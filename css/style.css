@@ -1,0 +1,14 @@
+#posts .card a.first:hover{
+    background-color: #fff;
+    color: #0074d9;
+}
+
+#posts .card a.second:hover{
+    background-color: #fff;
+    color: #5cb85c !important;
+}
+
+#posts .card a.third:hover{
+    background-color: #fff;
+    color: #f0ad4e;
+}
